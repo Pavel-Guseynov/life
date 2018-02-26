@@ -1,3 +1,5 @@
 # TODO
-* Create simple program to store things
+* Create Readme
+* Create simple cli
+* Create Actions model
 * Do things
